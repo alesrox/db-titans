@@ -1,0 +1,67 @@
+{
+  "titans": [
+    {
+      "id": 1,
+      "name": "Attack Titan",
+      "info": "Height: 15m",
+      "img": "https://i.pinimg.com/564x/24/09/d9/2409d98f7e0eb40e46b7dca7d574ceb7.jpg",
+      "description": "It has a physical condition superior to that of ordinary Titans, it has the power of hardening, but when it is hurt it regenerates slowly. He has enormous physical strength and ability, but has a \"berseker\" mode that can be activated at critical moments. In addition, he has the ability to share the memories of the past and future with the other bearers of this titan power, thus changing the time and his actions to obtain his best result."
+    },
+    {
+      "id": 2,
+      "name": "Female Titan ",
+      "info": "Height: 14m",
+      "img": "https://i.pinimg.com/564x/cc/60/be/cc60be7a6a38eec8ee3a2e061ed1cf54.jpg",
+      "description": "Specialist in melee battles, he is capable of hardening any part of his body, his regeneration is accelerated and he attracts ordinary titans. She possesses unusual strength and speed, capable of running long distances with great speed for a long period of time. One of her abilities is to be able to call other titans around with her roar, in addition she can voluntarily regenerate the damaged parts of her body at high speed."
+    },
+    {
+      "id": 3,
+      "name": "Colossal Titan",
+      "info": "Height: 60m",
+      "img": "https://i.pinimg.com/564x/ea/5c/e1/ea5ce1d6d348160ce11bb5bf47c3f2df.jpg",
+      "description": "It is the tallest titan that exists, it is also the titan with the most physical strength, however it lacks speed, and requires a lot of energy for its steam attack. He is the biggest and strongest titan of all, but he is the slowest as well. He can release huge amounts of hot steam that consume your body little by little and he also has inordinate strength. It is a danger for all humanity since if all the titans that are within the walls manifest themselves, it would be the end."
+    },
+    {
+      "id": 4,
+      "name": "Armored Titan",
+      "info": "Height: 15m",
+      "img": "https://i.pinimg.com/564x/44/64/84/4464845a95422c4c24024c197097cccf.jpg",
+      "description": "He is a titan with very powerful skin, he also has powerful armor and his joints without armor, which sometimes leaves him a little vulnerable. He is recognized because his skin is very thick and is protected by a huge armor, which serves to repel enemy attacks or function as a live battering ram. Despite this, his joints are the vulnerable parts of his body since he does not have a breastplate and with the Thunder Lancers of the Exploration Corps he was able to defeat him."
+    },
+    {
+      "id": 5,
+      "name": "Beast Titan",
+      "info": "Height: 30m",
+      "img": "https://i.pinimg.com/564x/71/a3/1d/71a31dc503dbae1f71fb9a2625818c97.jpg",
+      "description": "Considered the titan with the most intelligence and physical strength of all the changing titans, he hides a frightening ability that has not yet been revealed. This titan possesses a lot of intelligence, power and allows the creation of other titans using humans by injecting them with fluid from his spinal cord. The transformation only occurs if the Beast Titan screams and can control them at will. He can stiffen his body little by little and he also has enormous strength."
+    },
+    {
+      "id": 6,
+      "name": "Jaw Titan",
+      "info": "Height: 5m",
+      "img": "https://i.pinimg.com/564x/7b/95/d1/7b95d1d62286b48eac32eec1fc5313c3.jpg",
+      "description": "Considered the smallest titan, but it has great speed, very sharp claws and an extremely powerful jaw that make it very dangerous. The wearer achieves a very powerful jaw that can break practically everything, great agility, speed and sharp teeth and claws are its main characteristics. Like the Freighter Titan, it is only slightly larger than normal Titans and is outmatched in strength by other changelings."
+    },
+    {
+      "id": 7,
+      "name": "Freighter Titan",
+      "info": "Height: 4m",
+      "img": "https://i.pinimg.com/originals/0b/f4/e8/0bf4e8815ea965c61a5eba599298a00b.png",
+      "description": "This titan is one of the most mysterious, it has formidable resistance and speed, in fact it can carry heavy loads without resting for several days. He is one of the fastest, but his main ability is endurance. He can remain transformed for a long time and is used to carry supplies or artillery. He can also speak in his titan form, but he can't do beyond that and is only slightly larger than the other normal titans."
+    },
+    {
+      "id": 8,
+      "name": "Warhammer Titan",
+      "info": "Height: Unknown",
+      "img": "https://i.pinimg.com/564x/1d/d2/2e/1dd22eddf940b8b7f28cce97c7e48dea.jpg",
+      "description": "Apparently he possesses the ability to use hardening to create very powerful weapons, several hidden powers of this titan are still unknown. The Warhammer Titan has a hardening capacity greater than any other, with which he creates short- and long-range weapons. His strongest power is that its wielder can control the Titan from a distance with a short-range cord, which makes it almost invincible if its user is not found."
+    },
+    {
+      "id": 9,
+      "name": "Founding Titan",
+      "info": "Height: 17m",
+      "img": "https://pbs.twimg.com/media/DljkIFhUUAAoFas.jpg",
+      "description": "It is the most important and powerful titan since it controls the coordinate, only the Friz royal family can have the maximum power, erase memories. Most powerful Titan for possessing \"The Coordinate\", ability to give orders to all changing or pure titans. Access the invisible paths, an alternate dimension that connects all of Ymir's people and allows him to communicate with all of them if he wishes. He can create Titans out of thin air like the Colossal Titans on the walls were."
+    }
+  ]
+}
